@@ -1,0 +1,8 @@
+[
+  {
+    "default": false,
+    "type": "MySql",
+    "connection_string": "Server=localhost;Database=events;Uid=root;Pwd=300701;SslMode=none;",
+    "name": "MySql Connection"
+  }
+]

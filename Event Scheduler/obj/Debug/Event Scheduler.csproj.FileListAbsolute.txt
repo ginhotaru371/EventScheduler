@@ -1,0 +1,410 @@
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Event Scheduler.exe.config
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Event Scheduler.exe
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Event Scheduler.pdb
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\BouncyCastle.Crypto.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.Licensing.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.Utils.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraBars.v22.2.Design.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraEditors.v22.2.Design.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraLayout.v22.2.Design.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Protobuf.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\GumroadLicensing.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Hourglass.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Jenga.NET.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\K4os.Compression.LZ4.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\K4os.Hash.xxHash.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Kimtoo.BindingProvider.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Kimtoo.ButtonGroup.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Kimtoo.DbManager.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\MySql.Data.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\NavigationMenu.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Newtonsoft.Json.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Npgsql.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.Common.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.Interfaces.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.Text.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Buffers.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Memory.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Numerics.Vectors.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Text.Encodings.Web.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Text.Json.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.ValueTuple.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Ubiety.Dns.Core.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Zstandard.Net.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraDialogs.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Dialogs.v22.2.Core.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Protobuf.pdb
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Protobuf.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\K4os.Compression.LZ4.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\K4os.Hash.xxHash.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\MySql.Data.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Newtonsoft.Json.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Npgsql.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.Common.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\ServiceStack.Text.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Buffers.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Memory.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Numerics.Vectors.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Text.Encodings.Web.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Text.Json.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\System.ValueTuple.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraDialogs.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event Scheduler.csproj.AssemblyReference.cache
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event_Scheduler.Properties.Resources.resources
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event Scheduler.csproj.GenerateResource.cache
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event Scheduler.exe.licenses
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event Scheduler.csproj.CoreCompileInputs.cache
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event Scheduler.csproj.CopyComplete
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event Scheduler.exe
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event Scheduler.pdb
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Kimtoo.Preloader.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Kimtoo.Reports.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Kimtoo.ThemeFactory.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\OpenHtmlToPdf.dll
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event_Scheduler.Dialog.Form_AddEvent.resources
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Auth.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Core.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.pdb
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Auth.pdb
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Auth.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Core.pdb
+D:\Subject\C#\nhom3\Event Scheduler\bin\Debug\Google.Apis.Core.xml
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event_Scheduler.FormMain.resources
+D:\Subject\C#\nhom3\Event Scheduler\obj\Debug\Event_Scheduler.Dialog.Form1.resources
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Event Scheduler.exe.config
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Event Scheduler.exe
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Event Scheduler.pdb
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\BouncyCastle.Crypto.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.Licensing.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.Utils.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraBars.v22.2.Design.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraEditors.v22.2.Design.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraLayout.v22.2.Design.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\FontAwesome.Sharp.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Auth.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Core.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Protobuf.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\GumroadLicensing.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Hourglass.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Jenga.NET.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\K4os.Compression.LZ4.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\K4os.Hash.xxHash.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Kimtoo.BindingProvider.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Kimtoo.ButtonGroup.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Kimtoo.DbManager.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Kimtoo.Preloader.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Kimtoo.Reports.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Kimtoo.ThemeFactory.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\MySql.Data.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\NavigationMenu.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Newtonsoft.Json.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Npgsql.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\OpenHtmlToPdf.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.Common.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.Interfaces.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.Text.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Buffers.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Memory.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Numerics.Vectors.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Text.Encodings.Web.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Text.Json.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.ValueTuple.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Ubiety.Dns.Core.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Zstandard.Net.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraDialogs.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Dialogs.v22.2.Core.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.pdb
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Auth.pdb
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Auth.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Core.pdb
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Apis.Core.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Protobuf.pdb
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Google.Protobuf.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\K4os.Compression.LZ4.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\K4os.Hash.xxHash.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\MySql.Data.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Newtonsoft.Json.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\Npgsql.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.Common.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\ServiceStack.Text.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Buffers.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Memory.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Numerics.Vectors.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Text.Encodings.Web.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Text.Json.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\System.ValueTuple.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraDialogs.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event Scheduler.csproj.AssemblyReference.cache
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event_Scheduler.Dialog.Form_AddEvent.resources
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event_Scheduler.FormMain.resources
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event_Scheduler.Properties.Resources.resources
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event Scheduler.csproj.GenerateResource.cache
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event Scheduler.exe.licenses
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event Scheduler.csproj.CoreCompileInputs.cache
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event Scheduler.csproj.CopyComplete
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event Scheduler.exe
+D:\Subject\C#\nhom3 final\Event Scheduler\obj\Debug\Event Scheduler.pdb
